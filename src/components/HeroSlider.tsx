@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { ChevronLeft, ChevronRight, Play, Info } from "lucide-react";
 import { Button } from "./ui/button";
-//import { ImageWithFallback } from "./figma/ImageWithFallback";
+import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 const heroMovies = [
   {
